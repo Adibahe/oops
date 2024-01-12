@@ -1,0 +1,206 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Gen",
+      "request": "launch",
+      "mainClass": "Gen",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "NumberX",
+      "request": "launch",
+      "mainClass": "NumberX",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Employee",
+      "request": "launch",
+      "mainClass": "Employee",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Max_Thread",
+      "request": "launch",
+      "mainClass": "Max_Thread",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "My2package.Main",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "Start",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "TestDrive",
+      "request": "launch",
+      "mainClass": "TestDrive",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "DemoThreads",
+      "request": "launch",
+      "mainClass": "DemoThreads",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Generic",
+      "request": "launch",
+      "mainClass": "Generic",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "ValidityTest",
+      "request": "launch",
+      "mainClass": "ValidityTest",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "NamesArray",
+      "request": "launch",
+      "mainClass": "NamesArray",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Name",
+      "request": "launch",
+      "mainClass": "Name",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "array_list",
+      "request": "launch",
+      "mainClass": "array_list",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "lab_7",
+      "request": "launch",
+      "mainClass": "lab_7",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Lab_5",
+      "request": "launch",
+      "mainClass": "Lab_5",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "lab_4",
+      "request": "launch",
+      "mainClass": "lab_4",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Lab_4",
+      "request": "launch",
+      "mainClass": "Lab_4",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "lab_2",
+      "request": "launch",
+      "mainClass": "lab_2",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "add",
+      "request": "launch",
+      "mainClass": "add",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "complex",
+      "request": "launch",
+      "mainClass": "complex",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Assignment1",
+      "request": "launch",
+      "mainClass": "Assignment1",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "OOPS_dd64d539"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Aditya Bahe/OneDrive/Desktop/C-language/OOPS",
+      "program": "c:/Users/Aditya Bahe/OneDrive/Desktop/C-language/OOPS/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+pen,50,parker,5
+Laptop,6500,HP,50
+Bag,500,SkyBags,40
